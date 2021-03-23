@@ -22,7 +22,7 @@ body {
     
 }
 
-.omne, .kontakt, .icons {
+.omne, .kontakt {
   padding-right: 400px;
   padding-bottom: 60px;
   padding-left: 30px;
@@ -49,7 +49,7 @@ a {
 }
 
 a:hover {
-  color: darkblue
+  color: darkblue;
 }
 
 a:visited {
