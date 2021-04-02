@@ -42,6 +42,12 @@ h2 {
     
 }
 
+h3 {
+  color: #353940;
+  text-align: left;
+
+}
+
 
 h4 {
   color: #353940;
@@ -63,15 +69,13 @@ body {
 }
 
 .omne, .travel {
+  
   padding-right: 10rem;
-  padding-bottom: 1rem;
-  padding-left: 1rem;
+  padding-bottom: 20rem;
+  padding-top: 5rem;
+  padding-left: 3rem;
   font-size: 1rem;
 
-}
-
-.travel {
-  padding-top: 10rem;
 }
 
 .kontakt {
@@ -79,7 +83,7 @@ body {
   color: lightgrey;
 }
 
-.foto, .eiger {
+.foto, .svycarsko, .norsko, .francie {
   width: 400px;
   float: left;
   margin-right: 2rem;
@@ -91,9 +95,7 @@ a {
   color: #586F8C;
   font-style: italic; 
   padding: 1rem;
-  
 }
-
 
 header a {
   color: #586F8C;
@@ -103,19 +105,12 @@ header a:hover {
   color: darkblue;
 }
 
-header a:visited {
-  color: lightgray;
-}
-
 .fb, .email {
   width: 30px;
   height: 30px;
 }
 
 
-.travel {
-  margin-top: 10rem;;
-}
 
 
 
